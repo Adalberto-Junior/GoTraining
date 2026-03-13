@@ -32,4 +32,11 @@ func main () {
 	const PI  = 3.14
 
 	fmt.Println("PI: ", PI)
+
+	//Output function
+	fmt.Println("fmt.Print()")
+	fmt.Print(a,PI)
+
+	fmt.Println("fmt.Printf()")
+	fmt.Printf("The value: %v belong type %T and this is GO-Syntax format: %#v ",PI,PI,nome);
 }
