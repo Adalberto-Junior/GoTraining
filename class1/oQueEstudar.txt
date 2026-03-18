@@ -2,8 +2,8 @@
 2. structs e slices  --> Done
 3. Funções --> Done
 4. Ponteiros --> Done
-5. Interfaces
-6. Goroutines e channels
+5. Interfaces --> Done
+6. Goroutines e channels --> Done
 7. Tratamento de erros
 8. módulos e pacotes
 9. HTTP servers
