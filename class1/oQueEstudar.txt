@@ -6,7 +6,7 @@
 6. Goroutines e channels --> Done
 7. Tratamento de erros --> Done
 8. módulos e pacotes --> Done
-9. HTTP servers
+9. HTTP servers -- Done
 10 Base de dados
 11 testes
 
